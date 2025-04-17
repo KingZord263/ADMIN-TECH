@@ -1,5 +1,3 @@
-# ADMIN-TECH
-A Multi bug bot that will allow you to make What'sApp. Give it a try😆😆😆
 
 
 
@@ -23,7 +21,7 @@ Dont forget to fork & star repo
 
 
 <div align="center">
-  <img src="https://github.com/KingZord263/ADMIN-TECH/blob/main/assets/divider.gif?raw=true" width="100%"/>
+  <img src="https://files.catbox.moe/qra3z4.mp4" width="100%"/>
 </div>
 <div align="center">
   <img src="https://github.com/KingZord263/ADMIN-TECH/main/assets/deployheader.gif?raw=true" width="80%"/>
