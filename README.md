@@ -1,9 +1,8 @@
+# ADMIN-TECH VERSION 2
+![Background Image](https://files.catbox.moe/iui6dh.jpg)
 
-![Background Image](https://files.catbox.moe/6cyc7i.jpg)
 
-# ADMIN-TECH
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=ADMIN-TECH+V2)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=ADMIN-TECH+VERSION 2+CREATED+BY+THRI_IZ_KIDD+MODIFIED+BY ERROR+AND+ADMIN-TECH)
 
 ---
 
