@@ -1,9 +1,9 @@
 # ADMIN-TECH VERSION 2
-![Background Image](https://files.catbox.moe/9x6tog.jpg)
+![Background Image](https://files.catbox.moe/9x6tog.jp)
 
 # Welcome to the tech development ⚙ 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=110&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=ADMIN-TECH+VERSION+2)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=110&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=ADMIN-TECH+V2)
 
 ---
 
