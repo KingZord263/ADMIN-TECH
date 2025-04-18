@@ -1,4 +1,4 @@
-# ADMIN-TECH VERSION 2
+
 ![Background Image](https://files.catbox.moe/9x6tog.jpg)
 
 
