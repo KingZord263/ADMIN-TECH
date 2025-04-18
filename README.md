@@ -20,7 +20,7 @@ First star & Fork the repo using the button below!
 ### 2. Get Session ID
 
 ### 😆 PORTAL CODE
-[![PORTAL_CODE](https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://admintexh-d253b9b2524e.herokuapp.com)
+[![PORTAL_CODE](https://img.shields.io/badge/PORTAL_CODE-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://admintexh-d253b9b2524e.herokuapp.com)
 
 
 #### 😆 OPTION ONE
@@ -52,6 +52,6 @@ First star & Fork the repo using the button below!
 > Don't forget to fork & star the repo!
 
 # THANKS TO 
-THRI_IZ_KIDD 
-ADMIN-TECH 
-ERROR 
+> THRI_IZ_KIDD 
+> ADMIN-TECH 
+> ERROR 
