@@ -23,7 +23,7 @@ First star & Fork the repo using the button below!
 [![PAIR_CODE_1](https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://admintexh-d253b9b2524e.herokuapp.com/pair)
 
 #### ⚠️ OPTION TWO
-[![PAIR_CODE_2](https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://admintexh-d253b9b2524e.herokuapp.com/pair)
+[![PAIR_CODE_2](https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://admintexh-d253b9b2524e.herokuapp.com/qr)
 
 > Connection issues may require VPN activation.
 
